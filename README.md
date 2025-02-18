@@ -1,3 +1,7 @@
+A remix of the booty carriage, digital remix is designed with a couple extra tie down points for extruder cable / eddy / carto cable..... as well as the top "cable chain" mount is now replaced with a bigger hole for a ECAS04 ptfe fitting to hold a ptfe tube (small one when im printing regular filaments, or regular ptfe when im printing tpu with the small ptfe...)
+
+the other 'digital theft remix" is just his original carriage, with the rear cutout...
+
 
 ![image](https://github.com/user-attachments/assets/0ac5b4ed-3c4e-4b8e-833a-1e9a9be8fc3c)
 ![image](https://github.com/user-attachments/assets/d31cd144-57ba-4079-83c5-4cdfe20e217c)
