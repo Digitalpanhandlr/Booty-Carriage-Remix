@@ -7,3 +7,7 @@
 ![IMG_20250217_170553480_AE](https://github.com/user-attachments/assets/c47fc4a0-cad0-473c-9b60-a5079fc5c19d)
 ![IMG_20250217_170544735_AE](https://github.com/user-attachments/assets/71dccecf-6cf2-441d-bd42-f35eeaf9e63a)
 ![IMG_20250217_170612395_AE](https://github.com/user-attachments/assets/ed8273f2-770b-4b9a-8dae-92a6adf6caa9)
+
+
+using this btt eddy mount
+https://www.printables.com/model/937610-btt-eddy-mount_v2-on-creality-k1-for-booty-carriag
